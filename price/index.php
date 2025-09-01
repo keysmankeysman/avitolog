@@ -1,0 +1,1662 @@
+<!DOCTYPE html><html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=360, initial-scale=1">
+    <title>Авитолог — курсы по продвижению на Авито</title>
+    <meta name="description" content="Пройдя курсы авитолога, вы обучитесь всем инструментам для профессиональной настройки рекламного трафика через Авито для вашего бизнеса. Обучение специалистов по Авито с партнерами в сфере услуг СервисЛид научат вас с нуля создавать, настраивать и запускать прибыльные рекламные кампании. Начни зарабатывать на Авито уже сегодня с партнерской программой ServiceLead!">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/vendor.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="icon" type="image/png" href="/assets/favicon/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon/favicon.svg">
+    <link rel="shortcut icon" href="/assets/favicon/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+    <meta name="apple-mobile-web-app-title" content="SL Avito">
+    <link rel="manifest" href="/assets/favicon/site.webmanifest">
+</head><body>
+<header class="header">
+    <div class="content-wrap"><a class="header__logo" href="/"><img src="/assets/images/logo.svg" alt></a>
+        <div class="header__links hide-lg"><a class="header__link" href="#about">О курсе</a><a class="header__link" href="#cases">Истории учеников</a><a class="header__link" href="#cost">Стоимость обучения</a><a class="header__link" href="#contents">Содержание</a><a class="header__link" href="#reviews">Отзывы</a><a class="header__link" href="#start">Бесплатный модуль</a><a class="header__link" href="#faq">FAQ</a></div>
+        <div class="header__menu-btn hide-xl show-lg-flex"><span></span><span></span><span></span></div>
+    </div>
+</header>
+<div class="page-wrap">
+    <section class="section heroscreen">
+        <div class="content-wrap">
+            <div class="heroscreen__wrap">
+                <div class="heroscreen__left">
+                    <h1 class="heroscreen__title">Путь к успеху на&nbsp;Авито Услугах</h1>
+                    <div class="heroscreen__text">Получите пошаговый план запуска успешного аккаунта на&nbsp;Авито и начните получать стабильный доход</div>
+                    <div class="heroscreen__author2 hide-xl show-md-flex">
+                        <div class="heroscreen__author2-img">
+                            <picture class="heroscreen__img">
+                                <source srcset="/assets/images/heroscreen__img.webp" type="image/webp"/>
+                                <source srcset="/assets/images/heroscreen__img.png" type="image/png"/><img src="/assets/images/heroscreen__img.png" alt="alt"/>
+                            </picture>
+                        </div>
+                        <div class="heroscreen__author2-content">
+                            <div class="heroscreen__author2-name">Леонид</div>
+                            <div class="heroscreen__author2-text">Автор курса</div>
+                        </div>
+                    </div>
+                    <div class="heroscreen__info">
+                        <div class="heroscreen__info-icon"><img src="/assets/images/mic.svg" alt></div>Начните обучение с бесплатной консультации. Я&nbsp;свяжусь с вами лично!
+                    </div>
+                    <?php if ( !isset($_GET['dev']) ) { ?>
+                        <div class="heroscreen__form">
+                            <script id="db0cf88ea0665594bd4bc8e163e42d0cc8013731" src="https://slbschool.ru/pl/lite/widget/script?id=1418795"></script>
+                        </div>
+                    <?php } else { ?>
+                        <form class="heroscreen__form">
+                            <input class="heroscreen__form-input" type="text" name="fullname" placeholder="Ваше имя" required>
+                            <input class="heroscreen__form-input" type="tel" name="phone" placeholder="Телефон" required>
+                            <button class="button heroscreen__form-btn">Записаться на консультацию
+                            </button>
+                            <label class="check-wrap heroscreen__form-check" for="heroscreen-check">
+                                <input id="heroscreen-check" type="checkbox" checked required><span class="check-wrap__box">
+                    <svg class="icon check">
+                      <use xlink:href="/assets/images/sprite.svg#check"></use>
+                    </svg></span><span class="check-wrap__text">Согласие на обработку <a href="policy.html" target="_blank">персональных данных</a></span>
+                            </label>
+                        </form>
+                    <?php } ?>
+                </div>
+                <div class="heroscreen__right hide-md">
+                    <picture class="heroscreen__img">
+                        <source srcset="/assets/images/heroscreen__img.webp" type="image/webp"/>
+                        <source srcset="/assets/images/heroscreen__img.png" type="image/png"/><img src="/assets/images/heroscreen__img.png" alt="alt"/>
+                    </picture>
+                    <div class="heroscreen__author">
+                        <div class="heroscreen__author-name">Леонид</div>
+                        <div class="heroscreen__author-subtitle">Автор курса</div>
+                    </div>
+                </div>
+            </div>
+        </div><img class="heroscreen__blur hide-md" src="/assets/images/bg-blur-1.svg" alt>
+    </section>
+    <section class="section about">
+        <div class="content-wrap"><a class="anchor" id="about"></a>
+            <h2 class="section__title centered"><span>О чём</span> этот курс?</h2>
+            <div class="about__video">
+                <div class="about__video-inner">
+                    <div class="about__video-play">
+                        <svg class="icon play">
+                            <use xlink:href="/assets/images/sprite.svg#play"></use>
+                        </svg>
+                    </div>
+                    <iframe src="https://rutube.ru/play/embed/548e064f7165e9638ea056cc61ed6cf4/?p=9BZF7yO72igZF7V8RfAGOg" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+                </div>
+            </div>
+        </div><img class="about__blur hide-md" src="/assets/images/bg-blur-2.svg" alt>
+    </section>
+    <section class="section campaign">
+        <div class="content-wrap">
+            <h2 class="section__title centered">Научитесь создавать <span>прибыльную рекламную кампанию</span><br> на&nbsp;Авито Услугах</h2>
+            <div class="campaign__info">
+                <div class="campaign__info-item">
+                    <svg class="icon clock">
+                        <use xlink:href="/assets/images/sprite.svg#clock"></use>
+                    </svg>С нуля за 45 дней
+                </div>
+                <div class="campaign__info-item">
+                    <svg class="icon profile">
+                        <use xlink:href="/assets/images/sprite.svg#profile"></use>
+                    </svg>Под присмотром эксперта
+                </div>
+            </div>
+            <div class="campaign__grid">
+                <div class="campaign__item">
+                    <div class="campaign__item-title">Партнёрская программа ServiceLead</div>
+                    <div class="campaign__item-text">Полный разбор партнёрской программы ServiceLead: как зарегистрироваться, настроить личный кабинет и начать зарабатывать</div><img class="campaign__item-decor" src="/assets/images/campaign__item-decor-1.svg" alt>
+                </div>
+                <div class="campaign__item">
+                    <div class="campaign__item-title">Всё о работе<br> на Авито</div>
+                    <div class="campaign__item-text">Полное руководство по платформе: от&nbsp;регистрации и верификации<br> аккаунта до особенностей работы с&nbsp;заявками, правил площадки<br> и&nbsp;секретов получения дешевых заказов</div>
+                    <picture class="campaign__item-decor">
+                        <source srcset="/assets/images/campaign__item-decor-2.webp" type="image/webp"/>
+                        <source srcset="/assets/images/campaign__item-decor-2.png" type="image/png"/><img src="/assets/images/campaign__item-decor-2.png" alt="alt"/>
+                    </picture>
+                </div>
+                <div class="campaign__item">
+                    <div class="campaign__item-title">Анализ<br> конкурентов</div>
+                    <div class="campaign__item-text">Научитесь анализировать<br> успешные объявления конкурентов, выявлять их стратегии<br> и&nbsp;тестировать рабочие гипотезы<br> для&nbsp;своей рекламной кампании</div><img class="campaign__item-decor" src="/assets/images/campaign__item-decor-3.svg" alt>
+                </div>
+                <div class="campaign__item">
+                    <div class="campaign__item-title">Создание<br> эффективных объявлений</div>
+                    <div class="campaign__item-text">Овладеете техниками создания эффективных текстов и подбора качественных фото для максимальной&nbsp;конверсии</div><img class="campaign__item-decor" src="/assets/images/campaign__item-decor-4.svg" alt>
+                </div>
+                <div class="campaign__item">
+                    <div class="campaign__item-title">Работа с<br> рейтингом</div>
+                    <div class="campaign__item-text">Узнаете, как правильно работать с&nbsp;рейтингом на Авито. Научитесь работать как&nbsp;с положительной, так и с негативной обратной&nbsp;связью</div><img class="campaign__item-decor" src="/assets/images/campaign__item-decor-5.svg" alt>
+                </div>
+                <div class="campaign__item">
+                    <div class="campaign__item-title">Эффективные<br> стратегии продвижения</div>
+                    <div class="campaign__item-text">Узнаете об актуальных методах повышения эффективности рекламных кампаний: увеличивайте конверсии, минимизируйте риски и масштабируйте результаты на Авито</div><img class="campaign__item-decor" src="/assets/images/campaign__item-decor-6.svg" alt>
+                </div>
+            </div>
+            <div class="campaign__form">
+                <div class="section__title"><span>Мы готовы!</span><br> А вы?</div>
+                <?php if ( !isset($_GET['dev']) ) { ?>
+                    <div class="campaign__iframe-wrap">
+                        <script id="58471d0f5b48039956382e27a2e4bde626d1be97" src="https://slbschool.ru/pl/lite/widget/script?id=1418801"></script>
+                    </div>
+                <?php } else { ?>
+                    <div class="campaign__form-wrap">
+                        <input class="campaign__form-input" type="text" name="fullname" placeholder="Имя" required>
+                        <input class="campaign__form-input" type="tel" name="phone" placeholder="Телефон" required>
+                        <button class="button campaign__form-btn">Записаться на курс
+                        </button>
+                    </div>
+                    <label class="check-wrap campaign__form-check" for="campaign-check">
+                        <input id="campaign-check" type="checkbox" checked required><span class="check-wrap__box">
+            <svg class="icon check">
+              <use xlink:href="/assets/images/sprite.svg#check"></use>
+            </svg></span><span class="check-wrap__text">Согласие на обработку <a href="policy.html" target="_blank">персональных данных</a></span>
+                    </label>
+                <?php } ?>
+                <picture class="campaign__form-img">
+                    <source srcset="/assets/images/campaign__form-img.webp" type="image/webp"/>
+                    <source srcset="/assets/images/campaign__form-img.png" type="image/png"/><img src="/assets/images/campaign__form-img.png" alt="alt"/>
+                </picture>
+            </div>
+        </div><img class="campaign__blur hide-md" src="/assets/images/bg-blur-2.svg" alt>
+    </section>
+    <section class="section cases">
+        <div class="content-wrap"><a class="anchor" id="cases"></a>
+            <h2 class="section__title centered"><span>Истории успеха</span><br> моих учеников</h2>
+            <div class="swiper cases__slider">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide cases__item">
+                        <div class="cases__item-head">
+                            <div class="cases__item-img">
+                                <picture class="cases__img-1">
+                                    <source srcset="/assets/images/cases__img-1.webp" type="image/webp"/>
+                                    <source srcset="/assets/images/cases__img-1.png" type="image/png"/><img src="/assets/images/cases__img-1.png" alt="alt"/>
+                                </picture>
+                            </div>
+                            <div class="cases__item-right">
+                                <div class="cases__item-name">Александра</div>
+                                <div class="cases__item-quote">
+                                    <svg class="icon quote">
+                                        <use xlink:href="/assets/images/sprite.svg#quote"></use>
+                                    </svg>Огромное спасибо Леониду! Он помог с 0 разобраться со всеми этими сложностями. До сих пор отвечает на все вопросы, хотя обучение давно закончилось. Хоть это и не моя основная работа, но очень приятное хобби получилось)
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cases__item-columns">
+                            <div class="cases__column">
+                                <div class="cases__column-title">Предыстория</div>
+                                <div class="cases__column-text">Александра — моя знакомая. Эта была моя ученица до запуска курса, поэтому вся работа происходила на индивидуальных условиях. До старта обучения у неё не было опыта работы с Авито или ServiceLead. Мы начали с нуля и за две недели подготовили все необходимые материалы для запуска</div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Как Александра пришла в арбитраж</div>
+                                <div class="cases__column-text">
+                                    <ul>
+                                        <li>Убедил ее поучаствовать в эксперименте</li>
+                                        <li>Решила попробовать себя в новой нише.</li>
+                                        <li>Начала обучение с полного отсутствия знаний о работе с Авито.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Проблемы</div>
+                                <div class="cases__column-text">
+                                    <ul>
+                                        <li>Большие траты на отзывы — около 25,000₽</li>
+                                        <li>Первые две недели работали только с офферами по бытовой технике (БТ)</li>
+                                        <li>Аккаунт проработал всего месяц, после чего произошла блокировка</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Как шла работа</div>
+                                <div class="cases__column-text">Запуск — 25 сентября 2024 года<br>Первые объявления были запущены по направлению "Ремонт бытовой техники" (все офферы на 1 город) в 7 профилях и 9 городах:
+                                    <ul>
+                                        <li>Санкт-Петербург</li>
+                                        <li>Ростов и Таганрог</li>
+                                        <li>Волгоград</li>
+                                        <li>Астрахань</li>
+                                        <li>Нижний Новгород</li>
+                                        <li>Чебоксары</li>
+                                        <li>Самара и Тольятти</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Итоги первого месяца<br> (25.09–26.10):</div>
+                                <div class="cases__column-text">Траты: 51,269₽<br>Публикация объявлений, отзывы, телефония.<br>Выручка: 163,508₽<br>Чистая прибыль: 87,000₽</div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Итоги после обучения</div>
+                                <div class="cases__column-text">После завершения курса Александра перестала делиться подробной информацией, но недавно сообщила, что пробила потолок в феврале 400,000₽ чистой прибыли в месяц!</div>
+                            </div>
+                        </div>
+                        <div class="cases__total">
+                            <div class="cases__total-title">ИТОГОВЫЕ ЦИФРЫ</div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Общие траты за первый месяц</div>
+                                <div class="cases__total-amount">~51,269 ₽</div>
+                            </div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Общий доход</div>
+                                <div class="cases__total-amount">~163,508 ₽</div>
+                            </div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Чистая прибыль за первый месяц:</div>
+                                <div class="cases__total-amount">87,000 ₽</div>
+                            </div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Потолок дохода после масштабирования:</div>
+                                <div class="cases__total-amount">400,000₽/месяц</div>
+                            </div>
+                            <div class="cases__total-images"><a class="cases__total-image" href="/assets/images/cases__total-img-1-1.png" data-fancybox="case-1">
+                                    <picture class="cases__total-img-1-1">
+                                        <source srcset="/assets/images/cases__total-img-1-1.webp" type="image/webp"/>
+                                        <source srcset="/assets/images/cases__total-img-1-1.png" type="image/png"/><img src="/assets/images/cases__total-img-1-1.png" alt="alt"/>
+                                    </picture>
+                                    <div class="cases__total-zoom">
+                                        <svg class="icon zoom">
+                                            <use xlink:href="/assets/images/sprite.svg#zoom"></use>
+                                        </svg>
+                                    </div></a><a class="cases__total-image" href="/assets/images/cases__total-img-1-2.png" data-fancybox="case-1">
+                                    <picture class="cases__total-img-1-2">
+                                        <source srcset="/assets/images/cases__total-img-1-2.webp" type="image/webp"/>
+                                        <source srcset="/assets/images/cases__total-img-1-2.png" type="image/png"/><img src="/assets/images/cases__total-img-1-2.png" alt="alt"/>
+                                    </picture>
+                                    <div class="cases__total-zoom">
+                                        <svg class="icon zoom">
+                                            <use xlink:href="/assets/images/sprite.svg#zoom"></use>
+                                        </svg>
+                                    </div></a></div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide cases__item">
+                        <div class="cases__item-head">
+                            <div class="cases__item-img">
+                                <picture class="cases__img-4">
+                                    <source srcset="/assets/images/cases__img-4.webp" type="image/webp"/>
+                                    <source srcset="/assets/images/cases__img-4.png" type="image/png"/><img src="/assets/images/cases__img-4.png" alt="alt"/>
+                                </picture>
+                            </div>
+                            <div class="cases__item-right">
+                                <div class="cases__item-name">Дмитрий (1 поток)</div>
+                                <div class="cases__item-quote">
+                                    <svg class="icon quote">
+                                        <use xlink:href="/assets/images/sprite.svg#quote"></use>
+                                    </svg>На курсе было все доступно и разобрано, не осталось никаких незакрытых вопросов. Наоборот, я взял для себя много полезного и нашел способы улучшить свою работу. Рад, что обратил внимание на этот курс и купил его. Спасибо Леониду за поддержку и качественное обучение!
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cases__item-columns">
+                            <div class="cases__column">
+                                <div class="cases__column-title">Предыстория</div>
+                                <div class="cases__column-text">С Сервислидом знаком уже 1,5-2 года. В начале своего пути приходилось собирать по крупицам, не было такой возможности комплексно обучиться азам Авито: от начала создания аккаунта до получения прибыли в партнерке.</div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Итоги</div>
+                                <div class="cases__column-text">После анонса курса и его прохождения появилось понимание как дальше продолжать правильно заливать, а так же выявил свои ошибки, которые ранее совершал. За это спасибо Леониду!</div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title"></div>
+                                <div class="cases__column-text"></div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Проблемы</div>
+                                <div class="cases__column-text">В октябре 2024 года столкнулся с проблемой: Авито перевело аккаунты услуг на Тариф за просмотры. На тот момент этот тариф слабо работал, по факту был слив бюджета. Временно была приостановка рекламы.</div>
+                            </div>
+                        </div>
+                        <div class="cases__total">
+                            <div class="cases__total-title">ИТОГОВЫЕ ЦИФРЫ за 3 месяца(курс окупился)</div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Траты</div>
+                                <div class="cases__total-amount">47,795 ₽</div>
+                            </div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Выручка</div>
+                                <div class="cases__total-amount">114,875 ₽</div>
+                            </div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Чистая прибыль</div>
+                                <div class="cases__total-amount">67,080 ₽</div>
+                            </div>
+                            <div class="cases__total-images"><a class="cases__total-image" href="/assets/images/cases__total-img-2-1.png" data-fancybox="case-2">
+                                    <picture class="cases__total-img-2-1">
+                                        <source srcset="/assets/images/cases__total-img-2-1.webp" type="image/webp"/>
+                                        <source srcset="/assets/images/cases__total-img-2-1.png" type="image/png"/><img src="/assets/images/cases__total-img-2-1.png" alt="alt"/>
+                                    </picture>
+                                    <div class="cases__total-zoom">
+                                        <svg class="icon zoom">
+                                            <use xlink:href="/assets/images/sprite.svg#zoom"></use>
+                                        </svg>
+                                    </div></a></div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide cases__item">
+                        <div class="cases__item-head">
+                            <div class="cases__item-img">
+                                <picture class="cases__img-2">
+                                    <source srcset="/assets/images/cases__img-2.webp" type="image/webp"/>
+                                    <source srcset="/assets/images/cases__img-2.png" type="image/png"/><img src="/assets/images/cases__img-2.png" alt="alt"/>
+                                </picture>
+                            </div>
+                            <div class="cases__item-right">
+                                <div class="cases__item-name">Дмитрий (2 поток)</div>
+                                <div class="cases__item-quote">
+                                    <svg class="icon quote">
+                                        <use xlink:href="/assets/images/sprite.svg#quote"></use>
+                                    </svg>Спасибо огромное, что ты есть! Мои ожидания оправдались — не все в интернете инфоцыгане! Леониду — респект и уважение!
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cases__item-columns">
+                            <div class="cases__column">
+                                <div class="cases__column-title">Предыстория</div>
+                                <div class="cases__column-text">Дмитрий, 50 лет, Барнаул. До знакомства с ServiceLead занимался автобизнесом в Сибири, но пандемия и последующие события полностью разрушили его бизнес</div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Как шла работа</div>
+                                <div class="cases__column-text">Запуск 7 января 2025 года. Первые объявления запущены по направлению «Ремонт бытовой техники» (стиральные машины) в 14 городах Сибирского региона</div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Проблемы</div>
+                                <div class="cases__column-text">
+                                    <ul>
+                                        <li>Неоптимальная работа с отзывами — многие слетали.</li>
+                                        <li>Большие траты на отзывы</li>
+                                        <li>Не было работы с Уровнем сервиса</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Как Дмитрий пришел в арбитраж</div>
+                                <div class="cases__column-text">После совета племянника начал изучать тему арбитража трафика.<br> Попробовал работать с похожей партнёрской программой, но через 3 месяца компания закрылась с долгами. Потратил 100,000 рублей на обучение у другого наставника, но результатов не получил. На протяжении полутора лет искал пути заработка на Авито, но сталкивался с постоянными проблемами: блокировками аккаунтов, сносом отзывов и низким ROI</div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Первые 2 недели<br> (07.01–23.01):</div>
+                                <div class="cases__column-text">Расходы: 12,014₽<br>Получено от ServiceLead: 36,610₽<br>Чистыми за период: почти 25,000₽ с одного аккаунта и 14 объявлений</div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Первый месяц<br> (07.01–07.02):</div>
+                                <div class="cases__column-text">Вложения: 47,160₽ (объявления, отзывы, телефония, эксперименты с продвижением).<br>Доход: 107,390₽<br>Чистая прибыль: 60,000₽</div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Итоги второго месяца (07.02–07.03):</div>
+                                <div class="cases__column-text">Расходы: 93,000₽ (публикация, телефония, отзывы).<br>Доход: 240,000₽<br>Чистая прибыль: ~147,000₽</div>
+                                <div class="cases__column-links"><a class="cases__column-link" href="https://t.me/c/2066036837/197" target="_blank">Первая часть
+                                        <svg class="icon ext">
+                                            <use xlink:href="/assets/images/sprite.svg#ext"></use>
+                                        </svg></a><a class="cases__column-link" href="https://t.me/c/2066036837/251" target="_blank">Вторая часть
+                                        <svg class="icon ext">
+                                            <use xlink:href="/assets/images/sprite.svg#ext"></use>
+                                        </svg></a><a class="cases__column-link" href="https://t.me/c/2066036837/274" target="_blank">Результаты за месяц
+                                        <svg class="icon ext">
+                                            <use xlink:href="/assets/images/sprite.svg#ext"></use>
+                                        </svg></a><a class="cases__column-link" href="https://t.me/slbspart/31" target="_blank">Стрим с Дмитрием
+                                        <svg class="icon ext">
+                                            <use xlink:href="/assets/images/sprite.svg#ext"></use>
+                                        </svg></a></div>
+                            </div>
+                        </div>
+                        <div class="cases__total">
+                            <div class="cases__total-title">ИТОГОВЫЕ ЦИФРЫ</div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Общие вложения за два месяца</div>
+                                <div class="cases__total-amount">~ 140 000 ₽</div>
+                            </div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Общий доход</div>
+                                <div class="cases__total-amount">~ 347 000 ₽</div>
+                            </div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Чистая прибыль</div>
+                                <div class="cases__total-amount">~ 207 000 ₽</div>
+                            </div>
+                            <div class="cases__total-images"><a class="cases__total-image" href="/assets/images/cases__total-img-3-1.png" data-fancybox="case-3">
+                                    <picture class="cases__total-img-3-1">
+                                        <source srcset="/assets/images/cases__total-img-3-1.webp" type="image/webp"/>
+                                        <source srcset="/assets/images/cases__total-img-3-1.png" type="image/png"/><img src="/assets/images/cases__total-img-3-1.png" alt="alt"/>
+                                    </picture>
+                                    <div class="cases__total-zoom">
+                                        <svg class="icon zoom">
+                                            <use xlink:href="/assets/images/sprite.svg#zoom"></use>
+                                        </svg>
+                                    </div></a></div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide cases__item">
+                        <div class="cases__item-head">
+                            <div class="cases__item-img">
+                                <picture class="cases__img-5">
+                                    <source srcset="/assets/images/cases__img-5.webp" type="image/webp"/>
+                                    <source srcset="/assets/images/cases__img-5.png" type="image/png"/><img src="/assets/images/cases__img-5.png" alt="alt"/>
+                                </picture>
+                            </div>
+                            <div class="cases__item-right">
+                                <div class="cases__item-name">Максим</div>
+                                <div class="cases__item-quote">
+                                    <svg class="icon quote">
+                                        <use xlink:href="/assets/images/sprite.svg#quote"></use>
+                                    </svg>Леонид , привет . Хотел сказать тебе спасибо за подсказки , за информацию на канале . Очень много полезного рассказываешь бесплатно . Начал работать 12 дней назад уже получаются не плохие результаты. Вообщем я должник
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cases__item-columns">
+                            <div class="cases__column">
+                                <div class="cases__column-title">Предыстория</div>
+                                <div class="cases__column-text">Максим — мой ученик, который совмещает основную работу в сфере международной логистики с дополнительным заработком на Авито. До знакомства со мной он уже пробовал работать на платформе, занимаясь перепродажей вещей и ища способы увеличить свой доход</div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Как шла работа</div>
+                                <div class="cases__column-text">Запуск 19 января 2025 года. Максим бесплатно опубликовал объявления на все города ServiceLead в оффере "Ремонт пластиковых окон". Постепенно объявления набирали свой оборот и уже в первую неделю вышли в плюс. Чуть позже запустил дополнительный оффер "Электрик" и в день ему стало приходить комиссии на 10 000 в день</div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Проблемы</div>
+                                <div class="cases__column-text">Максим совсем не работал с рейтингом, что в дальнейшем привело его к проблеме после появления первых негативных отзывов</div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Как Максим нашел меня</div>
+                                <div class="cases__column-text">Осенью 2024 года он наткнулся на стрим со мной на YouTube-канале ServiceLead и подписался на мой Telegram-канал. Вдохновившись моими экспериментами, Максим решил попробовать повторить их. Он начал с оффера "Ремонт пластиковых окон" , используя тариф "Оплата за просмотры"</div>
+                                <div class="cases__column-links"><a class="cases__column-link" href="https://t.me/c/2066036837/380" target="_blank">Стрим с Максимом
+                                        <svg class="icon ext">
+                                            <use xlink:href="/assets/images/sprite.svg#ext"></use>
+                                        </svg></a></div>
+                            </div>
+                        </div>
+                        <div class="cases__total">
+                            <div class="cases__total-title">ИТОГИ ЗА МЕНЬШЕ ЧЕМ 2<br> МЕСЯЦА (19.01–28.02):</div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Траты</div>
+                                <div class="cases__total-amount">~120,000 ₽</div>
+                            </div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Общий доход</div>
+                                <div class="cases__total-amount">270,990 ₽</div>
+                            </div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Чистая прибыль</div>
+                                <div class="cases__total-amount">~150,000 ₽</div>
+                            </div>
+                            <div class="cases__total-images"><a class="cases__total-image" href="/assets/images/cases__total-img-4-1.png" data-fancybox="case-4">
+                                    <picture class="cases__total-img-4-1">
+                                        <source srcset="/assets/images/cases__total-img-4-1.webp" type="image/webp"/>
+                                        <source srcset="/assets/images/cases__total-img-4-1.png" type="image/png"/><img src="/assets/images/cases__total-img-4-1.png" alt="alt"/>
+                                    </picture>
+                                    <div class="cases__total-zoom">
+                                        <svg class="icon zoom">
+                                            <use xlink:href="/assets/images/sprite.svg#zoom"></use>
+                                        </svg>
+                                    </div></a><a class="cases__total-image" href="/assets/images/cases__total-img-4-2.png" data-fancybox="case-4">
+                                    <picture class="cases__total-img-4-2">
+                                        <source srcset="/assets/images/cases__total-img-4-2.webp" type="image/webp"/>
+                                        <source srcset="/assets/images/cases__total-img-4-2.png" type="image/png"/><img src="/assets/images/cases__total-img-4-2.png" alt="alt"/>
+                                    </picture>
+                                    <div class="cases__total-zoom">
+                                        <svg class="icon zoom">
+                                            <use xlink:href="/assets/images/sprite.svg#zoom"></use>
+                                        </svg>
+                                    </div></a></div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide cases__item">
+                        <div class="cases__item-head">
+                            <div class="cases__item-img">
+                                <picture class="cases__img-3">
+                                    <source srcset="/assets/images/cases__img-3.webp" type="image/webp"/>
+                                    <source srcset="/assets/images/cases__img-3.png" type="image/png"/><img src="/assets/images/cases__img-3.png" alt="alt"/>
+                                </picture>
+                            </div>
+                            <div class="cases__item-right">
+                                <div class="cases__item-name">Роман</div>
+                                <div class="cases__item-quote">
+                                    <svg class="icon quote">
+                                        <use xlink:href="/assets/images/sprite.svg#quote"></use>
+                                    </svg>Отдельно хочу отметить поддержку Леонида – он всегда на связи, отвечает на любые вопросы и реально помогает разобраться как с Авито, так и с партнёркой.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cases__item-columns">
+                            <div class="cases__column">
+                                <div class="cases__column-title">Предыстория</div>
+                                <div class="cases__column-text">До обучения у Леонида работал с партнёркой Сервислид около 3 месяцев, используя свой личный аккаунт Авито. За это время успел разобраться в базовых принципах залива, но всё равно оставались пробелы в знаниях, которые мешали стабильно расти</div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Как Роман пришел в арбитраж?</div>
+                                <div class="cases__column-text">Начал искать обучение по арбитражу трафика через Авито, но попадались в основном курсы авитологов. Даже купил один, но результата не было совсем – пользы для арбитражника там не оказалось</div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title"></div>
+                                <div class="cases__column-text"></div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Проблемы</div>
+                                <div class="cases__column-text">Главная проблема, с которой я сталкивался – блокировки аккаунтов. За 3 месяца работы у меня заблокировали три верифицированных аккаунта, что сильно тормозило процесс. Каждый раз приходилось их восстанавливать, теряя время и деньги. Пока похвастаться результатами не могу, но работу не останавливаю и уверен, что скоро всё пойдёт лучше</div>
+                            </div>
+                        </div>
+                        <div class="cases__total">
+                            <div class="cases__total-title">ИТОГИ ЗА 2 МЕСЯЦА<br> (19.01 – 18.03)</div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Траты</div>
+                                <div class="cases__total-amount">60-70% <span>от оборота</span></div>
+                            </div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Выручка</div>
+                                <div class="cases__total-amount">143,241 ₽</div>
+                            </div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Чистая прибыль</div>
+                                <div class="cases__total-amount">~ 55,000 ₽</div>
+                            </div>
+                            <div class="cases__total-images"><a class="cases__total-image" href="/assets/images/cases__total-img-5-1.png" data-fancybox="case-5">
+                                    <picture class="cases__total-img-5-1">
+                                        <source srcset="/assets/images/cases__total-img-5-1.webp" type="image/webp"/>
+                                        <source srcset="/assets/images/cases__total-img-5-1.png" type="image/png"/><img src="/assets/images/cases__total-img-5-1.png" alt="alt"/>
+                                    </picture>
+                                    <div class="cases__total-zoom">
+                                        <svg class="icon zoom">
+                                            <use xlink:href="/assets/images/sprite.svg#zoom"></use>
+                                        </svg>
+                                    </div></a><a class="cases__total-image" href="/assets/images/cases__total-img-5-2.png" data-fancybox="case-5">
+                                    <picture class="cases__total-img-5-2">
+                                        <source srcset="/assets/images/cases__total-img-5-2.webp" type="image/webp"/>
+                                        <source srcset="/assets/images/cases__total-img-5-2.png" type="image/png"/><img src="/assets/images/cases__total-img-5-2.png" alt="alt"/>
+                                    </picture>
+                                    <div class="cases__total-zoom">
+                                        <svg class="icon zoom">
+                                            <use xlink:href="/assets/images/sprite.svg#zoom"></use>
+                                        </svg>
+                                    </div></a><a class="cases__total-image" href="/assets/images/cases__total-img-5-3.png" data-fancybox="case-5">
+                                    <picture class="cases__total-img-5-3">
+                                        <source srcset="/assets/images/cases__total-img-5-3.webp" type="image/webp"/>
+                                        <source srcset="/assets/images/cases__total-img-5-3.png" type="image/png"/><img src="/assets/images/cases__total-img-5-3.png" alt="alt"/>
+                                    </picture>
+                                    <div class="cases__total-zoom">
+                                        <svg class="icon zoom">
+                                            <use xlink:href="/assets/images/sprite.svg#zoom"></use>
+                                        </svg>
+                                    </div></a><a class="cases__total-image" href="/assets/images/cases__total-img-5-4.png" data-fancybox="case-5">
+                                    <picture class="cases__total-img-5-4">
+                                        <source srcset="/assets/images/cases__total-img-5-4.webp" type="image/webp"/>
+                                        <source srcset="/assets/images/cases__total-img-5-4.png" type="image/png"/><img src="/assets/images/cases__total-img-5-4.png" alt="alt"/>
+                                    </picture>
+                                    <div class="cases__total-zoom">
+                                        <svg class="icon zoom">
+                                            <use xlink:href="/assets/images/sprite.svg#zoom"></use>
+                                        </svg>
+                                    </div></a></div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide cases__item">
+                        <div class="cases__item-head">
+                            <div class="cases__item-img">
+                                <picture class="cases__img-6">
+                                    <source srcset="/assets/images/cases__img-6.webp" type="image/webp"/>
+                                    <source srcset="/assets/images/cases__img-6.png" type="image/png"/><img src="/assets/images/cases__img-6.png" alt="alt"/>
+                                </picture>
+                            </div>
+                            <div class="cases__item-right">
+                                <div class="cases__item-name">Сергей</div>
+                                <div class="cases__item-quote">
+                                    <svg class="icon quote">
+                                        <use xlink:href="/assets/images/sprite.svg#quote"></use>
+                                    </svg>На курсе было все доступно и разобрано, не осталось никаких незакрытых вопросов. Наоборот, я взял для себя много полезного и нашел способы улучшить свою работу. Рад, что обратил внимание на этот курс и купил его. Спасибо Леониду за поддержку и качественное обучение!
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cases__item-columns">
+                            <div class="cases__column">
+                                <div class="cases__column-title">Предыстория</div>
+                                <div class="cases__column-text">
+                                    Сергей запустился в районе 10 декабря, но в течение недели не повезло — его аккаунт был заблокирован. Это стало неожиданностью и работа полностью остановилась.<br>
+                                    До Нового года мы добивались разблокировки и только к 1 января аккаунт был разблокирован. Но результаты, как это часто бывает после таких ситуаций, были не лучшими.<br>
+                                    Однако Сергей продолжил работать и постепенно раскручивает свой аккаунт.
+                                </div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Особенности кейса</div>
+                                <div class="cases__column-text">
+                                    <ul>
+                                        <li>Стабильный рост дохода: Несмотря на блокировку, результаты остаются максимально стабильными.</li>
+                                        <li>Минимальные траты: Как видите, даже с бюджетом до 10,000 в месяц можно получить отличные результаты!</li>
+                                        <li>Гибкость в работе: У Сергея есть основная работа и получается уделять Авито всего 30 минут в день. И это не помешало ему добиться таких результатов</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title"></div>
+                                <div class="cases__column-text"></div>
+                            </div>
+                            <div class="cases__column">
+                                <div class="cases__column-title">Декабрь-Январь:</div>
+                                <div class="cases__column-text">Общий доход: 66,660 рублей<br>Общие траты: 14,624 рубля<br>Общая чистая прибыль: 52,036 рублей</div>
+                                <div class="cases__column-title">Февраль:</div>
+                                <div class="cases__column-text">Доход: 49,380 рублей<br>Траты: 6,839 рублей<br>Чистая прибыль: 42,541 рубль</div>
+                                <div class="cases__column-title">Март:</div>
+                                <div class="cases__column-text">Доход: 26,000 рублей<br>Траты: 8,083 рубля<br>Чистая прибыль: 17,917 рублей</div>
+                                <div class="cases__column-links"><a class="cases__column-link" href="https://t.me/c/2066036837/380" target="_blank">Стрим с Сергеем
+                                        <svg class="icon ext">
+                                            <use xlink:href="/assets/images/sprite.svg#ext"></use>
+                                        </svg></a></div>
+                            </div>
+                        </div>
+                        <div class="cases__total">
+                            <div class="cases__total-title">ИТОГОВЫЕ ЦИФРЫ за 3 месяца</div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Общие траты</div>
+                                <div class="cases__total-amount">29,546 ₽</div>
+                            </div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Общий доход</div>
+                                <div class="cases__total-amount">142,040 ₽</div>
+                            </div>
+                            <div class="cases__total-item">
+                                <div class="cases__total-subtitle">Чистая прибыль</div>
+                                <div class="cases__total-amount">67,080 ₽</div>
+                            </div>
+                            <div class="cases__total-images"><a class="cases__total-image" href="/assets/images/cases__total-img-6-1.png" data-fancybox="case-6">
+                                    <picture class="cases__total-img-6-1">
+                                        <source srcset="/assets/images/cases__total-img-6-1.webp" type="image/webp"/>
+                                        <source srcset="/assets/images/cases__total-img-6-1.png" type="image/png"/><img src="/assets/images/cases__total-img-6-1.png" alt="alt"/>
+                                    </picture>
+                                    <div class="cases__total-zoom">
+                                        <svg class="icon zoom">
+                                            <use xlink:href="/assets/images/sprite.svg#zoom"></use>
+                                        </svg>
+                                    </div></a><a class="cases__total-image" href="/assets/images/cases__total-img-6-2.png" data-fancybox="case-6">
+                                    <picture class="cases__total-img-6-2">
+                                        <source srcset="/assets/images/cases__total-img-6-2.webp" type="image/webp"/>
+                                        <source srcset="/assets/images/cases__total-img-6-2.png" type="image/png"/><img src="/assets/images/cases__total-img-6-2.png" alt="alt"/>
+                                    </picture>
+                                    <div class="cases__total-zoom">
+                                        <svg class="icon zoom">
+                                            <use xlink:href="/assets/images/sprite.svg#zoom"></use>
+                                        </svg>
+                                    </div></a><a class="cases__total-image" href="/assets/images/cases__total-img-6-3.png" data-fancybox="case-6">
+                                    <picture class="cases__total-img-6-3">
+                                        <source srcset="/assets/images/cases__total-img-6-3.webp" type="image/webp"/>
+                                        <source srcset="/assets/images/cases__total-img-6-3.png" type="image/png"/><img src="/assets/images/cases__total-img-6-3.png" alt="alt"/>
+                                    </picture>
+                                    <div class="cases__total-zoom">
+                                        <svg class="icon zoom">
+                                            <use xlink:href="/assets/images/sprite.svg#zoom"></use>
+                                        </svg>
+                                    </div></a><a class="cases__total-image" href="/assets/images/cases__total-img-6-4.png" data-fancybox="case-6">
+                                    <picture class="cases__total-img-6-4">
+                                        <source srcset="/assets/images/cases__total-img-6-4.webp" type="image/webp"/>
+                                        <source srcset="/assets/images/cases__total-img-6-4.png" type="image/png"/><img src="/assets/images/cases__total-img-6-4.png" alt="alt"/>
+                                    </picture>
+                                    <div class="cases__total-zoom">
+                                        <svg class="icon zoom">
+                                            <use xlink:href="/assets/images/sprite.svg#zoom"></use>
+                                        </svg>
+                                    </div></a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="cases__slider-btns hide-sm">
+                <div class="cases__slider-btn l">
+                    <svg class="icon arrow-l">
+                        <use xlink:href="/assets/images/sprite.svg#arrow-l"></use>
+                    </svg>
+                </div>
+                <div class="cases__slider-btn r">
+                    <svg class="icon arrow-l">
+                        <use xlink:href="/assets/images/sprite.svg#arrow-l"></use>
+                    </svg>
+                </div>
+            </div>
+        </div><img class="cases__blur hide-md" src="/assets/images/bg-blur-2.svg" alt>
+    </section>
+    <section class="section cost">
+        <div class="content-wrap"><a class="anchor" id="cost"></a>
+            <h2 class="section__title centered">Стоимость обучения</h2>
+            <div class="cost__slider-btns">
+                <div class="cost__slider-btn l">
+                    <svg class="icon arrow-l">
+                        <use xlink:href="/assets/images/sprite.svg#arrow-l"></use>
+                    </svg>
+                </div>
+                <div class="cost__slider-btn r">
+                    <svg class="icon arrow-l">
+                        <use xlink:href="/assets/images/sprite.svg#arrow-l"></use>
+                    </svg>
+                </div>
+            </div>
+            <div class="swiper cost__slider">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide cost__item">
+                        <div class="cost__item-title">Базовый</div>
+                        <div class="cost__item-option">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-1">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-1"></use>
+                                </svg>
+                            </div>Доступ ко всем материалам курса
+                        </div>
+                        <div class="cost__item-option">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-1">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-1"></use>
+                                </svg>
+                            </div>Доступ к закрытому чату для учеников
+                        </div>
+                        <div class="cost__item-option">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-1">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-1"></use>
+                                </svg>
+                            </div>Запуск аккаунта совместно с преподавателем
+                        </div>
+                        <div class="cost__item-option">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-1">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-1"></use>
+                                </svg>
+                            </div>Проверка домашних заданий
+                        </div>
+                        <div class="cost__item-option">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-1">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-1"></use>
+                                </svg>
+                            </div>Запуск 3 профилей
+                        </div>
+                        <div class="cost__item-option colored">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-2">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-2"></use>
+                                </svg>
+                            </div>Возможность участвовать в онлайн-вебинарах, задать свой вопрос и получить консультацию после окончания курса
+                        </div>
+                        <div class="cost__item-option colored">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-3">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-3"></use>
+                                </svg>
+                            </div>Обучение не только работе с Авито, но и с инструментами для анализа
+                        </div>
+                        <div class="cost__item-option disabled">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-4">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-4"></use>
+                                </svg>
+                            </div>Расширенные комментарии преподавателя во время запуска аккаунта
+                        </div>
+                        <div class="cost__item-option disabled">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-5">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-5"></use>
+                                </svg>
+                            </div>Наставничество после завершения курса
+                        </div>
+                        <div class="cost__item-option disabled">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-6">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-6"></use>
+                                </svg>
+                            </div>Контакты исполнителей, с которыми работает преподаватель
+                        </div>
+                        <div class="cost__item-price">60 000 ₽</div>
+                        <button class="button cost__item-btn" data-popup="feedback" data-tariff="Базовый">Записаться на курс
+                        </button>
+                    </div>
+                    <div class="swiper-slide cost__item">
+                        <div class="cost__item-title">Продвинутый</div>
+                        <div class="cost__item-option">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-1">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-1"></use>
+                                </svg>
+                            </div>Доступ ко всем материалам курса
+                        </div>
+                        <div class="cost__item-option">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-1">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-1"></use>
+                                </svg>
+                            </div>Доступ к закрытому чату для учеников
+                        </div>
+                        <div class="cost__item-option">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-1">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-1"></use>
+                                </svg>
+                            </div>Запуск аккаунта совместно с преподавателем
+                        </div>
+                        <div class="cost__item-option">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-1">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-1"></use>
+                                </svg>
+                            </div>Проверка домашних заданий
+                        </div>
+                        <div class="cost__item-option">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-1">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-1"></use>
+                                </svg>
+                            </div>Запуск 3 профилей
+                        </div>
+                        <div class="cost__item-option colored">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-2">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-2"></use>
+                                </svg>
+                            </div>Возможность участвовать в онлайн-вебинарах, задать свой вопрос и получить консультацию после окончания курса
+                        </div>
+                        <div class="cost__item-option colored">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-3">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-3"></use>
+                                </svg>
+                            </div>Обучение не только работе с Авито, но и с инструментами для анализа
+                        </div>
+                        <div class="cost__item-option colored">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-4">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-4"></use>
+                                </svg>
+                            </div>Расширенные комментарии преподавателя во время запуска аккаунта
+                        </div>
+                        <div class="cost__item-option disabled">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-5">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-5"></use>
+                                </svg>
+                            </div>Наставничество после завершения курса
+                        </div>
+                        <div class="cost__item-option disabled">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-6">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-6"></use>
+                                </svg>
+                            </div>Контакты исполнителей, с которыми работает преподаватель
+                        </div>
+                        <div class="cost__item-price">75 000 ₽</div>
+                        <button class="button cost__item-btn" data-popup="feedback" data-tariff="Продвинутый">Записаться на курс
+                        </button>
+                    </div>
+                    <div class="swiper-slide cost__item">
+                        <div class="cost__item-title">Професиональный</div>
+                        <div class="cost__item-option">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-1">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-1"></use>
+                                </svg>
+                            </div>Доступ ко всем материалам курса
+                        </div>
+                        <div class="cost__item-option">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-1">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-1"></use>
+                                </svg>
+                            </div>Доступ к закрытому чату для учеников
+                        </div>
+                        <div class="cost__item-option">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-1">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-1"></use>
+                                </svg>
+                            </div>Запуск аккаунта совместно с преподавателем
+                        </div>
+                        <div class="cost__item-option">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-1">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-1"></use>
+                                </svg>
+                            </div>Проверка домашних заданий
+                        </div>
+                        <div class="cost__item-option">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-1">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-1"></use>
+                                </svg>
+                            </div>Запуск 3 профилей
+                        </div>
+                        <div class="cost__item-option colored">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-2">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-2"></use>
+                                </svg>
+                            </div>Возможность участвовать в онлайн-вебинарах, задать свой вопрос и получить консультацию после окончания курса
+                        </div>
+                        <div class="cost__item-option colored">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-3">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-3"></use>
+                                </svg>
+                            </div>Обучение не только работе с Авито, но и с инструментами для анализа
+                        </div>
+                        <div class="cost__item-option colored">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-4">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-4"></use>
+                                </svg>
+                            </div>Расширенные комментарии преподавателя во время запуска аккаунта
+                        </div>
+                        <div class="cost__item-option colored">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-5">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-5"></use>
+                                </svg>
+                            </div>Наставничество после завершения курса
+                        </div>
+                        <div class="cost__item-option colored">
+                            <div class="cost__item-icon">
+                                <svg class="icon cost__icon-6">
+                                    <use xlink:href="/assets/images/sprite.svg#cost__icon-6"></use>
+                                </svg>
+                            </div>Контакты исполнителей, с которыми работает преподаватель
+                        </div>
+                        <div class="cost__item-price">130 000 ₽</div>
+                        <button class="button cost__item-btn" data-popup="feedback" data-tariff="Профессиональный">Записаться на курс
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="cost__discount">
+                <div class="cost__discount-item">
+                    <picture class="cost__discount-img">
+                        <source srcset="/assets/images/cost__discount-1.webp" type="image/webp"/>
+                        <source srcset="/assets/images/cost__discount-1.png" type="image/png"/><img src="/assets/images/cost__discount-1.png" alt="alt"/>
+                    </picture>
+                    <div class="cost__discount-text"><span>Скидка за<br> предзапись 10%</span><br> на все тарифы!</div>
+                </div>
+                <div class="cost__discount-item">
+                    <picture class="cost__discount-img">
+                        <source srcset="/assets/images/cost__discount-2.webp" type="image/webp"/>
+                        <source srcset="/assets/images/cost__discount-2.png" type="image/png"/><img src="/assets/images/cost__discount-2.png" alt="alt"/>
+                    </picture>
+                    <div class="cost__discount-text"><span>Возможность оплаты в рассрочку</span> на срок до 12 месяцев</div>
+                </div>
+            </div>
+        </div><img class="cost__blur hide-md" src="/assets/images/bg-blur-2.svg" alt>
+    </section>
+    <section class="section contents">
+        <div class="content-wrap"><a class="anchor" id="contents"></a>
+            <h2 class="section__title centered">Содержание курса</h2>
+            <div class="contents__items">
+                <div class="contents__item">
+                    <svg class="icon contents__item-icon">
+                        <use xlink:href="/assets/images/sprite.svg#contents__icon-1"></use>
+                    </svg>37 уроков и<br> 5 онлайн&nbsp;вебинара в 7&nbsp;модулях
+                </div>
+                <div class="contents__item">
+                    <svg class="icon contents__item-icon">
+                        <use xlink:href="/assets/images/sprite.svg#contents__icon-2"></use>
+                    </svg>Домашние<br> задания в каждом уроке
+                </div>
+                <div class="contents__item">
+                    <svg class="icon contents__item-icon">
+                        <use xlink:href="/assets/images/sprite.svg#contents__icon-3"></use>
+                    </svg>Запуск аккаунта на Авито под наставничеством и выход на первую прибыль
+                </div>
+            </div>
+            <div class="contents__module">
+                <div class="contents__module-num">Модуль 1</div>
+                <div class="contents__module-title">ServiceLead</div>
+                <div class="contents__module-text">Модуль состоит из 5 уроков. Полный разбор функционала личного кабинета и настройка всех необходимых инструментов</div>
+                <div class="contents__module-icon">
+                    <svg class="icon plus">
+                        <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                    </svg>
+                </div>
+            </div>
+            <div class="contents__module">
+                <div class="contents__module-num">Модуль 2</div>
+                <div class="contents__module-title">Основы работы на Авито</div>
+                <div class="contents__module-text">Модуль состоит из 2 уроков и 1 онлайн вебинара. Разберем, как устроена платформа, алгоритмы поиска и выдачи, чтобы ваши объявления всегда были на виду.</div>
+                <div class="contents__module-icon">
+                    <svg class="icon plus">
+                        <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                    </svg>
+                </div>
+            </div>
+            <div class="contents__module">
+                <div class="contents__module-num">Модуль 3</div>
+                <div class="contents__module-title">Регистрация, настройка и правила платформы</div>
+                <div class="contents__module-text">Модуль состоит из 8 уроков. Научимся создавать и настраивать аккаунты, проходить верификацию и избегать блокировок.</div>
+                <div class="contents__module-icon">
+                    <svg class="icon plus">
+                        <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                    </svg>
+                </div>
+            </div>
+            <div class="contents__module">
+                <div class="contents__module-num">Модуль 4</div>
+                <div class="contents__module-title">Создание эффективных объявлений</div>
+                <div class="contents__module-text">Модуль состоит из 5 уроков и 2 онлайн вебинаров. Погрузимся в искусство создания продающих объявлений: от заголовков и текстов до фотографий и ключевых слов.</div>
+                <div class="contents__module-icon">
+                    <svg class="icon plus">
+                        <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                    </svg>
+                </div>
+            </div>
+            <div class="contents__module">
+                <div class="contents__module-num">Модуль 5</div>
+                <div class="contents__module-title">Работа с объявлениями и анализ результатов</div>
+                <div class="contents__module-text">Модуль состоит из 7 уроков. Освоим инструменты для анализа статистики, учета расходов и оптимизации объявлений под максимальную прибыль.</div>
+                <div class="contents__module-icon">
+                    <svg class="icon plus">
+                        <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                    </svg>
+                </div>
+            </div>
+            <div class="contents__module">
+                <div class="contents__module-num">Модуль 6</div>
+                <div class="contents__module-title">Работа с рейтингом и негативом</div>
+                <div class="contents__module-text">Модуль состоит из 2 уроков и 1 онлайн вебинара. Узнаем, как поддерживать высокий уровень сервиса, работать с отзывами и повышать доверие клиентов.</div>
+                <div class="contents__module-icon">
+                    <svg class="icon plus">
+                        <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                    </svg>
+                </div>
+            </div>
+            <div class="contents__module">
+                <div class="contents__module-num">Модуль 7</div>
+                <div class="contents__module-title">Автоматизация и финальные шаги</div>
+                <div class="contents__module-text">Модуль состоит из 4 уроков. Автоматизируем рутинные процессы и составим план для дальнейшего роста и масштабирования вашей рекламной компании на Авито. А список полезных сервисов и ссылок.</div>
+                <div class="contents__module-icon">
+                    <svg class="icon plus">
+                        <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                    </svg>
+                </div>
+            </div>
+            <div class="contents__module">
+                <div class="contents__module-num">Финал</div>
+                <div class="contents__module-title">Финальная встреча</div>
+                <div class="contents__module-text">Подведение итогов и план работы после курса.</div>
+                <div class="contents__module-icon">
+                    <svg class="icon plus">
+                        <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                    </svg>
+                </div>
+            </div>
+            <div class="contents__info-wrap">
+                <div class="contents__info-item">
+                    <div class="contents__info-title">Чего НЕ будет в курсе</div>
+                    <div class="contents__info-text">
+                        <div class="contents__info-icon">
+                            <svg class="icon x">
+                                <use xlink:href="/assets/images/sprite.svg#x"></use>
+                            </svg>
+                        </div>Поиска работы после обучения. Вы станете самостоятельным предпринимателем и будете работать на себя
+                    </div>
+                    <div class="contents__info-text">
+                        <div class="contents__info-icon">
+                            <svg class="icon x">
+                                <use xlink:href="/assets/images/sprite.svg#x"></use>
+                            </svg>
+                        </div>Продажи сторонних сервисов или исполнителей. Курс полностью сфокусирован на вашем успехе
+                    </div>
+                    <div class="contents__info-text">
+                        <div class="contents__info-icon">
+                            <svg class="icon x">
+                                <use xlink:href="/assets/images/sprite.svg#x"></use>
+                            </svg>
+                        </div>Пустых обещаний и нереальных ожиданий. Мы учим реальным инструментам, а не "быстрому миллиону"
+                    </div>
+                    <div class="contents__info-text">
+                        <div class="contents__info-icon">
+                            <svg class="icon x">
+                                <use xlink:href="/assets/images/sprite.svg#x"></use>
+                            </svg>
+                        </div>Непроверенных стратегий. Только рабочие методы, которые доказали свою эффективность
+                    </div>
+                    <div class="contents__info-text">
+                        <div class="contents__info-icon">
+                            <svg class="icon x">
+                                <use xlink:href="/assets/images/sprite.svg#x"></use>
+                            </svg>
+                        </div>Сухой теории и лишней информации. Все материалы практические и применимы сразу
+                    </div>
+                    <div class="contents__info-text">
+                        <div class="contents__info-icon">
+                            <svg class="icon x">
+                                <use xlink:href="/assets/images/sprite.svg#x"></use>
+                            </svg>
+                        </div>Краткосрочных решений. Мы учим стратегиям, которые работают долго и надежно
+                    </div>
+                    <div class="contents__info-text">
+                        <div class="contents__info-icon">
+                            <svg class="icon x">
+                                <use xlink:href="/assets/images/sprite.svg#x"></use>
+                            </svg>
+                        </div>Звонков и работы с клиентами. Вы сосредоточитесь на настройке рекламной кампании, а не на коммуникациях
+                    </div><img class="contents__info-img" src="/assets/images/contents__icon-1.svg" alt>
+                </div>
+                <div class="contents__info-item">
+                    <div class="contents__info-title">Что БУДЕТ в курсе</div>
+                    <div class="contents__info-text">
+                        <div class="contents__info-icon">
+                            <svg class="icon check-2">
+                                <use xlink:href="/assets/images/sprite.svg#check-2"></use>
+                            </svg>
+                        </div>Проверенный алгоритм выхода на заработок. Шаг за шагом от старта до стабильного дохода
+                    </div>
+                    <div class="contents__info-text">
+                        <div class="contents__info-icon">
+                            <svg class="icon check-2">
+                                <use xlink:href="/assets/images/sprite.svg#check-2"></use>
+                            </svg>
+                        </div>Практическая теория. Материалы основаны на опыте экспертов и успешных кейсах учеников
+                    </div>
+                    <div class="contents__info-text">
+                        <div class="contents__info-icon">
+                            <svg class="icon check-2">
+                                <use xlink:href="/assets/images/sprite.svg#check-2"></use>
+                            </svg>
+                        </div>21 урок + 5 онлайн-вебинаров. Конкретные инструкции, чек-листы и пошаговые планы
+                    </div>
+                    <div class="contents__info-text">
+                        <div class="contents__info-icon">
+                            <svg class="icon check-2">
+                                <use xlink:href="/assets/images/sprite.svg#check-2"></use>
+                            </svg>
+                        </div>Обучение работе с Авито с нуля. От регистрации аккаунта до масштабирования рекламных кампаний
+                    </div>
+                    <div class="contents__info-text">
+                        <div class="contents__info-icon">
+                            <svg class="icon check-2">
+                                <use xlink:href="/assets/images/sprite.svg#check-2"></use>
+                            </svg>
+                        </div>Выход на заработок уже в первый месяц.<br>
+                        Цель — выйти на 50 000 рублей чистой прибыли
+                    </div>
+                    <div class="contents__info-text">
+                        <div class="contents__info-icon">
+                            <svg class="icon check-2">
+                                <use xlink:href="/assets/images/sprite.svg#check-2"></use>
+                            </svg>
+                        </div>Поддержка наставников-экспертов. Практика под присмотром профессионалов
+                    </div>
+                    <div class="contents__info-text">
+                        <div class="contents__info-icon">
+                            <svg class="icon check-2">
+                                <use xlink:href="/assets/images/sprite.svg#check-2"></use>
+                            </svg>
+                        </div>Запуск собственной рекламной кампании. Сразу применяете знания на практике и видите результат
+                    </div><img class="contents__info-img" src="/assets/images/contents__icon-2.svg" alt>
+                </div>
+            </div>
+            <div class="contents__frags-wrap">
+                <div class="contents__frags-left">
+                    <div class="swiper contents__frags-slider">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide contents__frags-item">
+                                <video playsinline poster="/assets/video/contents__frags-video-preview.jpg">
+                                    <source src="/assets/video/contents__frags-video.mp4" type="video/mp4">
+                                </video>
+                                <div class="contents__frags-play">
+                                    <svg class="icon play">
+                                        <use xlink:href="/assets/images/sprite.svg#play"></use>
+                                    </svg>
+                                </div>
+                            </div>
+                            <div class="swiper-slide contents__frags-item">
+                                <picture class="contents__frags-img">
+                                    <source srcset="/assets/images/contents__frags-img-1.webp" type="image/webp"/>
+                                    <source srcset="/assets/images/contents__frags-img-1.png" type="image/png"/>
+                                    <img src="/assets/images/contents__frags-img-1.png" alt="alt"/>
+                                </picture>
+                            </div>
+                            <div class="swiper-slide contents__frags-item">
+                                <picture class="contents__frags-img">
+                                    <source srcset="/assets/images/contents__frags-img-2.webp" type="image/webp"/>
+                                    <source srcset="/assets/images/contents__frags-img-2.png" type="image/png"/>
+                                    <img src="/assets/images/contents__frags-img-2.png" alt="alt"/>
+                                </picture>
+                            </div>
+                            <div class="swiper-slide contents__frags-item">
+                                <picture class="contents__frags-img">
+                                    <source srcset="/assets/images/contents__frags-img-3.webp" type="image/webp"/>
+                                    <source srcset="/assets/images/contents__frags-img-3.png" type="image/png"/>
+                                    <img src="/assets/images/contents__frags-img-3.png" alt="alt"/>
+                                </picture>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="contents__frags-btns">
+                        <div class="contents__frags-btn l">
+                            <svg class="icon arrow-l">
+                                <use xlink:href="/assets/images/sprite.svg#arrow-l"></use>
+                            </svg>
+                        </div>
+                        <div class="contents__frags-btn r">
+                            <svg class="icon arrow-l">
+                                <use xlink:href="/assets/images/sprite.svg#arrow-l"></use>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+                <div class="contents__frags-right">
+                    <div class="contents__frags-title"><span>Фрагменты</span> курса</div>
+                    <div class="contents__frags-text">Моя команда провела большую работу, чтобы меня было хорошо видно и слышно.<br><br> Уроки сопровождаются вставками, скриншотами и инфографикой.</div>
+                </div>
+            </div>
+            <div class="contents__banner">
+                <div class="contents__banner-text">Средний доход ученика <span>80 000 ₽</span>, но&nbsp;есть и те, кто зарабатывает <span>300&nbsp;000&nbsp;₽</span><br>&nbsp;</div>
+                <picture class="contents__banner-img">
+                    <source srcset="/assets/images/contents__banner-img.webp" type="image/webp"/>
+                    <source srcset="/assets/images/contents__banner-img.png" type="image/png"/><img src="/assets/images/contents__banner-img.png" alt="alt"/>
+                </picture>
+            </div>
+        </div><img class="contents__blur-1 hide-md" src="/assets/images/bg-blur-2.svg" alt><img class="contents__blur-2 hide-md" src="/assets/images/bg-blur-3.svg" alt>
+    </section>
+    <section class="section reviews">
+        <div class="content-wrap"><a class="anchor" id="reviews"></a>
+            <h2 class="section__title centered">Видео-отзывы</h2>
+            <div class="swiper reviews__slider">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide reviews__item">
+                        <video playsinline>
+                            <source src="/assets/video/reviews__item-video-1.mp4" type="video/mp4">
+                        </video>
+                        <div class="reviews__item-play">
+                            <svg class="icon play">
+                                <use xlink:href="/assets/images/sprite.svg#play"></use>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="swiper-slide reviews__item">
+                        <video playsinline>
+                            <source src="/assets/video/reviews__item-video-2.mp4" type="video/mp4">
+                        </video>
+                        <div class="reviews__item-play">
+                            <svg class="icon play">
+                                <use xlink:href="/assets/images/sprite.svg#play"></use>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="swiper-slide reviews__item">
+                        <video playsinline>
+                            <source src="/assets/video/reviews__item-video-3.mp4" type="video/mp4">
+                        </video>
+                        <div class="reviews__item-play">
+                            <svg class="icon play">
+                                <use xlink:href="/assets/images/sprite.svg#play"></use>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="swiper-slide reviews__item">
+                        <video playsinline>
+                            <source src="/assets/video/reviews__item-video-4.mp4" type="video/mp4">
+                        </video>
+                        <div class="reviews__item-play">
+                            <svg class="icon play">
+                                <use xlink:href="/assets/images/sprite.svg#play"></use>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="reviews__slider-btns">
+                <div class="reviews__slider-btn l">
+                    <svg class="icon arrow-l">
+                        <use xlink:href="/assets/images/sprite.svg#arrow-l"></use>
+                    </svg>
+                </div>
+                <div class="reviews__slider-btn r">
+                    <svg class="icon arrow-l">
+                        <use xlink:href="/assets/images/sprite.svg#arrow-l"></use>
+                    </svg>
+                </div>
+            </div>
+        </div><img class="reviews__blur-1 hide-md" src="/assets/images/bg-blur-2.svg" alt><img class="reviews__blur-2 hide-md" src="/assets/images/bg-blur-3.svg" alt>
+    </section>
+    <section class="section author">
+        <div class="content-wrap">
+            <h2 class="section__title centered">Автор курса</h2>
+            <div class="author__img-wrap">
+                <picture class="author__img">
+                    <source srcset="/assets/images/heroscreen__img.webp" type="image/webp"/>
+                    <source srcset="/assets/images/heroscreen__img.png" type="image/png"/><img src="/assets/images/heroscreen__img.png" alt="alt"/>
+                </picture>
+            </div>
+            <div class="author__name">Леонид</div>
+            <div class="author__quote">Я помогу разобраться в тонкостях платформы и научу создавать прибыльные аккаунты. Я лично проверяю домашние задания и провожу консультации
+                <svg class="icon author__quote-icon">
+                    <use xlink:href="/assets/images/sprite.svg#quote-2"></use>
+                </svg>
+                <svg class="icon author__quote-icon">
+                    <use xlink:href="/assets/images/sprite.svg#quote-2"></use>
+                </svg>
+            </div>
+            <div class="author__items">
+                <div class="author__item">
+                    <div class="author__item-title">2018 <span><span>год</span></span></div>
+                    <div class="author__item-text">Начало работы с Авито и платформой ServiceLead</div>
+                </div>
+                <div class="author__item">
+                    <div class="author__item-title">4 <span>млн. ₽ <span>в мес.</span></span></div>
+                    <div class="author__item-text">Пиковый оборот на платформе ServiceLead</div>
+                </div>
+                <div class="author__item">
+                    <div class="author__item-title">> 1,5 <span>млн. ₽</span></div>
+                    <div class="author__item-text">Чистая прибыль на пике в месяц</div>
+                </div>
+                <div class="author__item">
+                    <div class="author__item-title">> 100</div>
+                    <div class="author__item-text">Учеников</div>
+                </div>
+                <div class="author__item">
+                    <div class="author__item-title">2022 <span><span> год</span></span></div>
+                    <div class="author__item-text">Самый эффективный партнер платформы ServiceLead</div>
+                </div>
+                <div class="author__item">
+                    <div class="author__item-title">800 <span>тыс. ₽</span></div>
+                    <div class="author__item-text">Средний заработок в&nbsp;месяц за последние 4 года</div>
+                </div>
+                <div class="author__item">
+                    <div class="author__item-title">
+                        <svg class="icon trophy">
+                            <use xlink:href="/assets/images/sprite.svg#trophy"></use>
+                        </svg>
+                    </div>
+                    <div class="author__item-text">Несколько побед в&nbsp;конкурсах и баттлах на&nbsp;платформе ServiceLead</div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section start">
+        <div class="content-wrap"><a class="anchor" id="start"></a>
+            <h2 class="section__title centered"><span>Бесплатный первый модуль</span><br> Начало пути на Авито Услугах</h2>
+            <div class="start__items">
+                <div class="start__item">
+                    <div class="start__item-num">01</div>
+                    <div class="start__item-title">Полное понимание ServiceLead</div>
+                    <div class="start__item-text">Что это за платформа, как она работает и какие настройки необходимы для старта</div><img class="start__item-icon" src="/assets/images/start__icon-1.svg" alt>
+                </div>
+                <div class="start__item">
+                    <div class="start__item-num">02</div>
+                    <div class="start__item-title">Правила работы на Авито</div>
+                    <div class="start__item-text">Пошаговый алгоритм запуска рекламной кампании</div><img class="start__item-icon" src="/assets/images/start__icon-2.svg" alt>
+                </div>
+                <div class="start__item">
+                    <div class="start__item-num">03</div>
+                    <div class="start__item-title">Пошаговый алгоритм запуска на Авито</div>
+                    <div class="start__item-text">От регистрации<br> до первых заказов</div><img class="start__item-icon" src="/assets/images/start__icon-3.svg" alt>
+                </div>
+                <div class="start__item">
+                    <div class="start__item-num">04</div>
+                    <div class="start__item-title">Лайфхаки для упрощения работы</div>
+                    <div class="start__item-text">Постоянно обновляемые уроки с полезными советами и фишками</div><img class="start__item-icon" src="/assets/images/start__icon-4.svg" alt>
+                </div>
+            </div>
+            <div class="start__subtitle">Чем полезен бесплатный модуль</div>
+            <div class="start__info">
+                <div class="start__info-item"><img class="start__info-icon" src="/assets/images/start__info-icon-1.svg" alt>
+                    <div class="start__info-text">Вы научитесь грамотно настраивать и использовать Авито Услуги для заработка</div>
+                </div>
+                <div class="start__info-item"><img class="start__info-icon" src="/assets/images/start__info-icon-2.svg" alt>
+                    <div class="start__info-text">Освоите практические инструменты и техники, которые помогут вам быстро стартовать</div>
+                </div>
+                <div class="start__info-item"><img class="start__info-icon" src="/assets/images/start__info-icon-3.svg" alt>
+                    <div class="start__info-text">Получите доступ к актуальной информации, которая постоянно обновляется</div>
+                </div>
+            </div>
+            <div class="start__form">
+                <div class="start__form-title">Заполните форму и получите доступ к первому модулю — <span>это бесплатно!</span></div>
+                <script id="98e27c493d295834a0cebfe5a6af0ba31dec411a" src="https://slbschool.ru/pl/lite/widget/script?id=1418789"></script>
+            </div>
+            <!--form class="start__form">
+                <div class="start__form-title">Заполните форму и получите доступ к первому модулю — <span>это бесплатно!</span></div>
+                <div class="start__form-wrap">
+                    <input class="start__form-input" type="text" name="fullname" placeholder="Ваше имя" required>
+                    <input class="start__form-input" type="email" name="email" placeholder="Почта" required>
+                    <input class="start__form-input" type="tel" name="phone" placeholder="Телефон" required>
+                    <input class="start__form-input" type="text" name="telegram" placeholder="Телеграм" required>
+                    <button class="button start__form-btn">Получить модуль бесплатно
+                    </button>
+                    <label class="check-wrap start__form-check" for="start-check">
+                        <input id="start-check" type="checkbox" checked required><span class="check-wrap__box">
+                    <svg class="icon check">
+                      <use xlink:href="/assets/images/sprite.svg#check"></use>
+                    </svg></span><span class="check-wrap__text">Согласие на обработку <a href="policy.html" target="_blank">персональных данных</a></span>
+                    </label>
+                </div>
+            </form-->
+        </div>
+    </section>
+    <div class="section telegram">
+        <div class="content-wrap">
+            <div class="telegram__wrap">
+                <div class="telegram__author">
+                    <div class="telegram__author-img">
+                        <picture class="telegram__author-image">
+                            <source srcset="/assets/images/telegram__author.webp" type="image/webp"/>
+                            <source srcset="/assets/images/telegram__author.png" type="image/png"/><img src="/assets/images/telegram__author.png" alt="alt"/>
+                        </picture>
+                    </div>
+                    <div class="telegram__author-name">Леонид<br> Servicelead</div>
+                </div>
+                <div class="telegram__tags">
+                    <div class="telegram__tag">Фишки Авито</div>
+                    <div class="telegram__tag">Авторские статьи</div>
+                    <div class="telegram__tag">Лидогенерация на Авито</div>
+                    <div class="telegram__tag">3 400 + подписчиков</div><a class="button telegram__btn green" href="https://t.me/+DzsS2jgzwngyNDRi" target="_blank">Подписаться
+                        <svg class="icon arrow-tr">
+                            <use xlink:href="/assets/images/sprite.svg#arrow-tr"></use>
+                        </svg></a>
+                </div><img class="telegram__blur" src="/assets/images/telegram__blur.svg" alt>
+                <div class="telegram__icon hide-sm">
+                    <svg class="icon telegram__wrap-icon">
+                        <use xlink:href="/assets/images/sprite.svg#tg"></use>
+                    </svg>
+                </div>
+                <picture class="telegram__img hide-sm">
+                    <source srcset="/assets/images/telegram__img.webp" type="image/webp"/>
+                    <source srcset="/assets/images/telegram__img.png" type="image/png"/><img src="/assets/images/telegram__img.png" alt="alt"/>
+                </picture>
+                <picture class="telegram__img hide-xl show-sm">
+                    <source srcset="/assets/images/telegram__img-sm.webp" type="image/webp"/>
+                    <source srcset="/assets/images/telegram__img-sm.png" type="image/png"/><img src="/assets/images/telegram__img-sm.png" alt="alt"/>
+                </picture>
+            </div>
+        </div><img class="telegram__blur-1 hide-md" src="/assets/images/bg-blur-2.svg" alt><img class="telegram__blur-2 hide-md" src="/assets/images/bg-blur-2.svg" alt><img class="telegram__blur-3 hide-md" src="/assets/images/bg-blur-2.svg" alt><img class="telegram__blur-4 hide-md" src="/assets/images/bg-blur-3.svg" alt>
+    </div>
+    <section class="section faq">
+        <div class="content-wrap"><a class="anchor" id="faq"></a>
+            <h2 class="section__title centered">FAQ</h2>
+            <div class="faq__item">
+                <div class="faq__item-title">Когда начало ближайшего потока?</div>
+                <div class="faq__item-text">
+                    Пока точная дата не определена, но мы анонсируем ее за неделю до старта. Если вы запишитесь на курс, за 2 недели до начала с вами свяжется Леонид, чтобы обсудить детали и помочь подготовиться к старту.<br><br>
+                    Также вы можете следить за новостями и объявлениями о старте потока в <a href="https://t.me/+oA8W0_6XwEs1YjBi" target="_blank">Telegram-канале</a>. Количество мест ограничено, поэтому рекомендуем записаться заранее, чтобы гарантировать себе участие. Иногда из-за высокого спроса места заканчиваются раньше, чем ожидалось!
+                </div>
+                <svg class="icon plus">
+                    <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                </svg>
+            </div>
+            <div class="faq__item">
+                <div class="faq__item-title">Сколько длится курс?</div>
+                <div class="faq__item-text">
+                    Курс занимает от 45 дней и включает как теоретическую, так и практическую части:<br>
+                    15 дней теории: Мы разбираем все аспекты работы на Авито и ServiceLead. Вы получите полное понимание всех необходимых процессов и инструментов.<br><br>
+                    30 дней практики : В течение этого времени вы запускаете свой аккаунт на Авито и применяете полученные знания на практике. Основная цель – выйти на стабильную прибыль и настроить постоянный поток клиентов через ServiceLead.<br><br>
+                    По окончании курса у вас будет полностью рабочий аккаунт на Авито, который уже будет приносить вам деньги. Дальше всё зависит только от вас: если постоянно поддерживать и развивать его, то вполне можно выйти на заработок в 150–200 тысяч рублей в течение 2–3 месяцев.
+                </div>
+                <svg class="icon plus">
+                    <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                </svg>
+            </div>
+            <div class="faq__item">
+                <div class="faq__item-title">Что такое ServiceLead?</div>
+                <div class="faq__item-text">
+                    ServiceLead – это партнерская программа в сфере услуг, где за каждого приведенного клиента выплачивается комиссия.<br><br>
+                    В ServiceLead выполняет большой спектр услуг (начиная от ремонта бытовой техники и заканчивая мелким бытовым ремонтом и дезинсекцией) по всей России, что позволяет партнерам найти свою нишу в любом случае!<br><br>
+                    Подробнее на сайте <a href="https://servicelead.ru" target="_blank">servicelead.ru</a>
+                </div>
+                <svg class="icon plus">
+                    <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                </svg>
+            </div>
+            <div class="faq__item">
+                <div class="faq__item-title">Какой бюджет потребуется для старта?</div>
+                <div class="faq__item-text">
+                    Рекомендуемый бюджет для старта — 20 000 рублей.<br><br>
+                    Однако, можно запуститься и с меньшим бюджетом, но для этого потребуется больше времени.<br>
+                    Выплаты в ServiceLead происходят каждую неделю, и раскрутиться можно очень быстро.
+                </div>
+                <svg class="icon plus">
+                    <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                </svg>
+            </div>
+            <div class="faq__item">
+                <div class="faq__item-title">Что я получу после этого курса?</div>
+                <div class="faq__item-text">
+                    У вас будет уже полностью рабочий аккаунт на Авито, который приносит вам прибыль ежедневно.<br><br>
+                    Дальше все зависит от вас: если постоянно поддерживать и развивать его, то вполне можно выйти на заработок в 150-200 тысяч рублей в течение 2-3 месяцев.
+                </div>
+                <svg class="icon plus">
+                    <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                </svg>
+            </div>
+            <div class="faq__item">
+                <div class="faq__item-title">Даёте ли вы гарантии успеха?</div>
+                <div class="faq__item-text">Формальных гарантий мы не предоставляем, так как успех на 70% зависит от ваших действий. Однако Леонид работает с каждым учеником до достижения результата, особенно если возникают сложности или форс-мажорные ситуации.</div>
+                <svg class="icon plus">
+                    <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                </svg>
+            </div>
+            <div class="faq__item">
+                <div class="faq__item-title">Где можно увидеть кейсы учеников?</div>
+                <div class="faq__item-text">Если требуются кейсы учеников, то пишите в личные сообщения <a href="https://t.me/MaoleD" target="_blank">@MaoleD</a>. Леонид отправит все кейсы и расскажет, как и что делали ученики, чтобы достигнуть этих результатов. Лучший пример за последнее время - это 87 тысяч чистой прибыли в первый месяц!</div>
+                <svg class="icon plus">
+                    <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                </svg>
+            </div>
+            <div class="faq__item">
+                <div class="faq__item-title">Есть ли возможность разбить оплату?</div>
+                <div class="faq__item-text">
+                    Да, мы предоставляем возможность купить курс в рассрочку через банк!<br>
+                    Причем все проценты берем на себя!
+                </div>
+                <svg class="icon plus">
+                    <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                </svg>
+            </div>
+            <div class="faq__item">
+                <div class="faq__item-title">Могу ли я посмотреть, что будет в курсе до оплаты?</div>
+                <div class="faq__item-text">Да, весь курс можно посмотреть в личном кабинете - <a href="https://slbschool.ru/" target="_blank">https://slbschool.ru/</a></div>
+                <svg class="icon plus">
+                    <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                </svg>
+            </div>
+            <div class="faq__item">
+                <div class="faq__item-title">У меня совсем нет опыта в Авито, я точно смогу разобраться?</div>
+                <div class="faq__item-text">Да, курс специально разработан как для новичков, так и для тех, кто уже имеет опыт работы на Авито. Главное требование — наличие компьютера и возраст от 18 лет. Все материалы курса построены таким образом, чтобы даже начинающие пользователи могли легко разобраться и успешно применить полученные знания на практике.</div>
+                <svg class="icon plus">
+                    <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                </svg>
+            </div>
+            <div class="faq__item">
+                <div class="faq__item-title">Сколько человек будет в потоке?</div>
+                <div class="faq__item-text">В потоке от 5 до 20 человек.</div>
+                <svg class="icon plus">
+                    <use xlink:href="/assets/images/sprite.svg#plus"></use>
+                </svg>
+            </div>
+        </div>
+    </section>
+</div>
+<footer class="footer">
+    <div class="content-wrap">
+        <div class="footer__top">
+            <div class="footer__column">
+                <div class="footer__title">Готовы начать?</div><a class="footer__logo hide-md" href="/"><img src="/assets/images/logo.svg" alt></a>
+            </div>
+            <?php if ( !isset($_GET['dev']) ) { ?>
+                <div class="footer__form">
+                    <script id="db0cf88ea0665594bd4bc8e163e42d0cc8013731" src="https://slbschool.ru/pl/lite/widget/script?id=1418795"></script>
+                </div>
+            <?php } else { ?>
+                <form class="footer__form">
+                    <input class="footer__form-input" type="text" name="fullname" placeholder="Ваше имя" required>
+                    <input class="footer__form-input" type="tel" name="phone" placeholder="Телефон" required>
+                    <button class="button footer__form-btn">Записаться на консультацию
+                    </button>
+                    <label class="check-wrap footer__form-check" for="footer-check">
+                        <input id="footer-check" type="checkbox" checked required><span class="check-wrap__box">
+            <svg class="icon check">
+              <use xlink:href="/assets/images/sprite.svg#check"></use>
+            </svg></span><span class="check-wrap__text">Согласие на обработку <a href="policy.html" target="_blank">персональных данных</a></span>
+                    </label><a class="footer__logo hide-xl show-md" href="/"><img src="/assets/images/logo.svg" alt></a>
+                </form>
+            <?php } ?>
+        </div>
+        <div class="footer__bottom">
+            <div class="footer__bottom-column"><a class="footer__bottom-logo" href="/"><img src="/assets/images/logo-sl.svg" alt></a>
+                <div class="footer__copy hide-md">2025</div>
+            </div>
+            <div class="footer__bottom-column">
+                <p>ИП Бубнов Л.Н.</p>
+                <p>ОГРНИП<br> 324784700378312</p>
+                <p>ИНН 780501124462</p>
+                <p>г. Санкт-Петербург</p>
+            </div>
+            <div class="footer__bottom-column"><a class="footer__link" href="offer.html" target="_blank">Договор-оферта</a><a class="footer__link" href="policy.html" target="_blank">Соглашение об обработке персональных данных</a>
+                <div class="footer__copy hide-xl show-md">2025</div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div class="mob-menu">
+    <div class="mob-menu__btn"><span></span><span></span><span></span></div><a class="mob-menu__link" href="#about">О курсе</a><a class="mob-menu__link" href="#cases">Истории учеников</a><a class="mob-menu__link" href="#cost">Стоимость обучения</a><a class="mob-menu__link" href="#contents">Содержание</a><a class="mob-menu__link" href="#reviews">Отзывы</a><a class="mob-menu__link special" href="#start">Бесплатный модуль</a><a class="mob-menu__link" href="#faq">FAQ</a><a class="mob-menu__logo" href="/"><img src="/assets/images/logo.svg" alt></a>
+    <div class="mob-menu__text">ИП Бубнов Л.Н.</div>
+    <div class="mob-menu__text">ОГРНИП 324784700378312</div>
+    <div class="mob-menu__text">ИНН 780501124462</div>
+    <div class="mob-menu__text">г. Санкт-Петербург</div>
+</div>
+<div class="shadow"></div><a class="top-btn" href="#">
+    <svg class="icon arrow-u">
+        <use xlink:href="/assets/images/sprite.svg#arrow-u"></use>
+    </svg></a>
+<div class="popup-wrap" data-popup="hide">
+    <div class="popup feedback">
+        <div class="popup__title"><span>Мы Готовы!</span><br> а вы?</div>
+        <?php if ( !isset($_GET['dev']) ) { ?>
+            <div class="popup__iframe-wrap">
+                <script id="db0cf88ea0665594bd4bc8e163e42d0cc8013731" src="https://slbschool.ru/pl/lite/widget/script?id=1418795"></script>
+            </div>
+        <?php } else { ?>
+            <input class="popup__form-input" type="text" name="fullname" placeholder="Ваше имя" required>
+            <input class="popup__form-input" type="tel" name="phone" placeholder="Телефон" required>
+            <button class="button popup__form-btn">Записаться на консультацию
+            </button>
+            <label class="check-wrap popup__form-check" for="popup-check">
+                <input id="popup-check" type="checkbox" checked required><span class="check-wrap__box">
+        <svg class="icon check">
+          <use xlink:href="/assets/images/sprite.svg#check"></use>
+        </svg></span><span class="check-wrap__text">Согласие на обработку <a href="policy.html" target="_blank">персональных данных</a></span>
+            </label>
+        <?php } ?>
+        <div class="popup__x" data-popup="hide">
+            <svg class="icon x">
+                <use xlink:href="/assets/images/sprite.svg#x"></use>
+            </svg>
+        </div>
+        <picture class="popup__img">
+            <source srcset="/assets/images/campaign__form-img.webp" type="image/webp"/>
+            <source srcset="/assets/images/campaign__form-img.png" type="image/png"/><img src="/assets/images/campaign__form-img.png" alt="alt"/>
+        </picture>
+        <input type="hidden" name="tariff">
+    </div>
+    <form class="popup msg">
+        <div class="popup__title"></div>
+        <div class="popup__x" data-popup="hide">
+            <svg class="icon x">
+                <use xlink:href="/assets/images/sprite.svg#x"></use>
+            </svg>
+        </div>
+        <picture class="popup__img">
+            <source srcset="/assets/images/campaign__form-img.webp" type="image/webp"/>
+            <source srcset="/assets/images/campaign__form-img.png" type="image/png"/><img src="/assets/images/campaign__form-img.png" alt="alt"/>
+        </picture>
+    </form>
+</div>
+<script src="/assets/js/vendor.js"></script>
+<script src="/assets/js/scripts.js"></script></body>
+</html>
